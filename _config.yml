@@ -28,8 +28,9 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter: yoyo308
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  youtube: YoyoFernadez
+  googleplus: YoyoFernández
+  telegram: yoyo308
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
